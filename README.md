@@ -93,7 +93,7 @@ Each API response returns a `response_id`. Passing it back as `previous_response
 The 24 source documents are combined into one knowledge base file. This is intentional: it simplifies ingestion and keeps the vector store to a single managed file.
 
 ### Zero-JS-framework frontend
-The entire UI is one `index.html` file. No build step, no npm, no bundler. The recruiter can open it immediately. Markdown rendering is done with a lightweight inline parser.
+The entire UI is one `index.html` file. No build step, no npm, no bundler — clone and run. Markdown rendering is done with a lightweight inline parser.
 
 ---
 
