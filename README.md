@@ -254,6 +254,3 @@ The UI reads this key from a hardcoded constant (`const API_KEY`) in `index.html
 
 ---
 
-## Project Context
-
-Built as part of a technical assessment for an AI Engineer role at an international financial center. The assessment required designing a production-ready AI assistant for a Chief Strategy Officer, grounded in a proprietary strategic intelligence knowledge base.
